@@ -6,7 +6,7 @@
 
 <h1 align="center">MixuinoPCB</h1>
 
-<h3 align="center">A PCB for Mixuino the widnows audio mixer built on Arduino</h3>
+<h3 align="center">A PCB for Mixuino the windows audio mixer built on Arduino</h3>
 
 ---------
 
