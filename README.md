@@ -4,9 +4,9 @@
   <img src="logo.png" alt="logo" width="150" height="150"/>
 </p>
 
-<h1 align="center">Mixuino</h1>
+<h1 align="center">MixuinoPCB</h1>
 
-<h3 align="center">An Arduino Mixer for windows built with Python</h3>
+<h3 align="center">A PCB for Mixuino the widnows audio mixer built on Arduino</h3>
 
 ---------
 
