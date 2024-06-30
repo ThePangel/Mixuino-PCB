@@ -14,9 +14,9 @@ This is the ready to print PCB for the Mixuino project.
 With 4 slide potentiometers and an Arduino NANO you will be all set to work with Mixuino.
 Also with 4 mounting holes for all your mounting needs!
 
-![Front view]("Front.png")
-![Back view]("Back.png")
-![Diagram view]("Diagram.png")
+![Front view](Front.png)
+![Back view](Back.png)
+![Diagram view](Diagram.png)
 
 ---
 ## Contact
