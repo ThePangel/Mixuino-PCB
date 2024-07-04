@@ -6,13 +6,21 @@
 
 <h1 align="center">MixuinoPCB</h1>
 
-<h3 align="center">A PCB for Mixuino the widnows audio mixer built on Arduino</h3>
+<h3 align="center">A PCB for Mixuino the windows audio mixer built on Arduino</h3>
 
 ---------
 
+<h3 align="center"> ⚠️ This repo will soon be merged with the main Mixuino repo </h3>
+
+-----
+
 This is the ready to print PCB for the Mixuino project.
+
 With 4 slide potentiometers and an Arduino NANO you will be all set to work with Mixuino.
+
 Also with 4 mounting holes for all your mounting needs!
+
+Some CAD files of my design for the complete mixer.
 
 ![Front view](Front.png)
 ![Back view](Back.png)
