@@ -10,7 +10,7 @@
 
 ---------
 
-<h3 align="center"> ⚠️ This repo is no longer maintained nor updated, it has been merged with the main [Mixuino repo](https://github.com/ThePangel/Mixuino) </h3>
+<h3 align="center"> ⚠️ This repo is no longer maintained nor updated, it has been merged with the main Mixuino repo (https://github.com/ThePangel/Mixuino) </h3>
 
 -----
 
